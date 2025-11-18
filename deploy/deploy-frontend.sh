@@ -1,5 +1,5 @@
 #!/bin/bash
-cd frontend
+cd poisoning-dashboard-react
 echo "Building React app..."
 npm run build
 
