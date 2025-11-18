@@ -1,4 +1,4 @@
-# LLM-Poisoning-Shield-The-Immune-System-Your-Model-Never-Had - MVP
+# ML-Model-Poisoning-Monitoring-Dashboard - MVP
 
 A serverless, real-time monitoring layer for detecting, classifying, and mitigating LLM poisoning attempts using **Vertex AI**, **Gemini 2.5 Pro**, **Cloud Functions Gen2**, **Firestore**, and **Cloud Run**.
 
@@ -57,4 +57,5 @@ This MVP implements a **proactive LLM safety layer** that:
 ## More Information
 For the complete technical write-up, visit the Medium article:  
 [How I Built a Real-Time LLM Poisoning Monitoring Dashboard on Google Cloud](https://medium.com/@solletisubhash24/how-i-built-a-real-time-llm-poisoning-monitoring-dashboard-on-google-cloud-51379f58761e)
+
 
