@@ -1,0 +1,8 @@
+functions-framework==3.*
+google-cloud-aiplatform==1.52.0
+google-cloud-firestore==2.19.0
+numpy==1.26.4
+streamlit
+google-cloud-firestore
+pandas
+plotly
